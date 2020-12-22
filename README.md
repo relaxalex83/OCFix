@@ -1,5 +1,5 @@
 # OCFix
- Open Core autoupdate kexts drivers and config.plist
+ OpenCore autoupdate kexts drivers and config.plist
 
 OCUpdateTool - утилита автоматического обновления загрузчика OpenCore и kext'ов
 
