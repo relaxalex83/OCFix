@@ -3,7 +3,7 @@ Autoupdate tool for update fully OpenCore EFI modules and kexts
 
 OCUpdateTool - утилита автоматического обновления загрузчика OpenCore и kext'ов
 
-Подходит для версии OpenCore 0.5.9 и выше, на текущий момент до release 0.6.4
+Подходит для версии OpenCore 0.5.9 и выше, на текущий момент до release 0.6.5
 
 Обновление модулей загрузчика:
 - BOOTx64.efi
