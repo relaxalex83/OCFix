@@ -30,8 +30,11 @@ OCUpdateTool - утилита автоматического обновлени�
 - FakeSMC.kext
 - GeforceSensor.kext
 - IntelCPUMonitor.kext
+- LucyRTL8125Ethernet.kext
+- IntelMausi.kext
 - IntelMausiEthernet.kext
 - RadeonMonitor.kext
 - RealtekRTL8111.kext
+- VoodooPS2Controller.kext
 
 Мы постарались сделать максимально лёгким и безопасным переход вашей верисии OpenCore от старых до релиза 0.6.5, и обновить всю папку EFI, но от текущих ошибок вашего конфига, не застрахованы даже вы сами:) Проверить config.plist, вы можете native утилитой OpenCore - ocvalidate.
