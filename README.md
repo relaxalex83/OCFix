@@ -32,7 +32,6 @@ OCUpdateTool - утилита автоматического обновлени�
 - CpuTscSync.kext
 - BT4LEContinuityFixup.kext
 - GeforceSensor.kext
-- HibernationFixup.kext
 - IntelCPUMonitor.kext
 - LucyRTL8125Ethernet.kext
 - IntelMausi.kext
