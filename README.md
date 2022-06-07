@@ -31,7 +31,6 @@ OCUpdateTool - утилита автоматического обновлени�
 - AtherosE2200Ethernet.kext
 - CPUFriend.kext
 - CpuTscSync.kext
-- BT4LEContinuityFixup.kext
 - IntelCPUMonitor.kext
 - LucyRTL8125Ethernet.kext
 - IntelMausi.kext
@@ -40,5 +39,5 @@ OCUpdateTool - утилита автоматического обновлени�
 - RealtekRTL8111.kext
 - SMCLightSensor.kext
 
-Простое обновление вашей верисии OpenCore от старых, до текущего релиза 0.8.1.
+Простое обновление вашей версии OpenCore от 0.5.9, до текущего релиза 0.8.1.
 Проверить config.plist можете native утилитой OpenCore - ocvalidate.
