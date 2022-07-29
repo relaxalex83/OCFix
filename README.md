@@ -1,4 +1,4 @@
-# OCFix
+# OCUpdateTool
 Autoupdate tool for update fully OpenCore EFI modules and kexts
 
 OCUpdateTool - утилита автоматического обновления загрузчика OpenCore и kext'ов
