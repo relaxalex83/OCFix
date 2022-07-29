@@ -5,7 +5,7 @@ OCUpdateTool - утилита автоматического обновлени�
 
 Минимальная версия OpenCore для работы утилиты - 0.5.9.
 
-[Скачать / Download](https://yadi.sk/d/vWsJCJpbhoHgVg)
+[Скачать / Download](https://ihackline.com/wp-content/uploads/2020/12/OCUpdateTool.zip)
 
 Обновление модулей загрузчика:
 - BOOTx64.efi
