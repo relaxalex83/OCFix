@@ -25,6 +25,10 @@ OCUpdateTool - утилита автоматического обновлени�
 - Lilu.kext
 - NVMeFix.kext
 - SMCBatteryManager.kext
+- SMCDellSensors.kext
+- SMCLightSensor.kext
+- SMCProcessor.kext
+- SMCSuperIO.kext
 - VirtualSMC.kext
 - WhateverGreen.kext
 - VoodooPS2Controller.kext
