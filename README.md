@@ -35,7 +35,11 @@ OCUpdateTool - утилита автоматического обновлени�
 
 Дополнительные
 - AtherosE2200Ethernet.kext
+- BlueToolFixup.kext
+- BrcmFirmwareData.kext
+- BrcmPatchRAM3.kext
 - CPUFriend.kext
+- BrightnessKeys.kext
 - CpuTscSync.kext
 - IntelCPUMonitor.kext
 - LucyRTL8125Ethernet.kext
@@ -43,8 +47,9 @@ OCUpdateTool - утилита автоматического обновлени�
 - IntelMausiEthernet.kext
 - RadeonMonitor.kext
 - RealtekRTL8111.kext
+- RestrictEvents.kext
 - SMCLightSensor.kext
 - HibernationFixup.kext
 
-Простое обновление вашей версии OpenCore от 0.5.9, до текущего релиза 0.9.0.
+Простое обновление вашей версии OpenCore от 0.5.9, до текущего релиза 0.9.1.
 Проверить config.plist можете native утилитой OpenCore - ocvalidate.
