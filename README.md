@@ -51,5 +51,5 @@ OCUpdateTool - утилита автоматического обновлени�
 - SMCLightSensor.kext
 - HibernationFixup.kext
 
-Простое обновление вашей версии OpenCore от 0.5.9, до текущего релиза 1.0.7.
+Простое обновление вашей версии OpenCore от 0.5.9, до текущего релиза 1.0.8.
 Проверить config.plist можете native утилитой OpenCore - ocvalidate.
